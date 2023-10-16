@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e5b44b5-a72f-4d73-83e3-76169bd8780f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/BufferCompartido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/EstacionDeTrabajo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/LineaDeMontaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/Visualizacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV2/AssemblyLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV2/FactorySimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV2/SharedBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV2/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV2/Workstation.java" afterDir="false" />
+    <list default="true" id="8e5b44b5-a72f-4d73-83e3-76169bd8780f" name="Changes" comment="main">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/Bola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/MostrarMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/Visualizacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IntentoV1/Visualizacion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +49,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.IntentoV1.Main" />
+      <module name="ExamenOperacionGalton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.IntentoV1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostrarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.IntentoV1.MostrarMain" />
       <module name="ExamenOperacionGalton" />
       <extension name="coverage">
         <pattern>
@@ -77,6 +79,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MostrarMain" />
       </list>
     </recent_temporary>
   </component>
@@ -89,11 +92,60 @@
       <option name="presentableId" value="Default" />
       <updated>1697448759890</updated>
       <workItem from="1697448760931" duration="57000" />
-      <workItem from="1697448841113" duration="4191000" />
+      <workItem from="1697448841113" duration="6732000" />
     </task>
+    <task id="LOCAL-00001" summary="BufferCompartido">
+      <option name="closed" value="true" />
+      <created>1697453225960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697453225960</updated>
+    </task>
+    <task id="LOCAL-00002" summary="EstacionDeTrabajo">
+      <option name="closed" value="true" />
+      <created>1697453298748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697453298748</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LineaDeMontaje">
+      <option name="closed" value="true" />
+      <created>1697453354942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697453354942</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Visualizacion">
+      <option name="closed" value="true" />
+      <created>1697453385509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697453385509</updated>
+    </task>
+    <task id="LOCAL-00005" summary="main">
+      <option name="closed" value="true" />
+      <created>1697453403898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697453403898</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BufferCompartido" />
+    <MESSAGE value="EstacionDeTrabajo" />
+    <MESSAGE value="LineaDeMontaje" />
+    <MESSAGE value="Visualizacion" />
+    <MESSAGE value="main" />
+    <option name="LAST_COMMIT_MESSAGE" value="main" />
   </component>
 </project>
